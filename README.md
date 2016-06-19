@@ -1,4 +1,4 @@
-# Soul legacy WoW-guild assist
+# Soul legacy WoW guild assist
 Wordpress plugin created with love towards early days of WoW to help with guild management with wordpress.
 
 World of Warcraft™ and Blizzard Entertainment™ are all trademarks or registered trademarks of Blizzard Entertainment in the United States and/or other countries. 
